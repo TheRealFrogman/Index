@@ -30,22 +30,22 @@
   - Языки и парадигмы программирования, технологические стеки
   - Среда разработки и отладка кода
 - Семинар: [Обсуждение плана и материалов курса](https://youtu.be/bQMTbRWrteU)
-- [Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
+- ✅[Настройка среды: Node.js, npm, git, eslint](https://youtu.be/hSyA7tcNaCE)
   - Смотреть выборочно, что не понятно - пропускайте
   - Задания: [Exercises.ru.md](https://github.com/HowProgrammingWorks/Introduction/blob/master/Exercises.ru.md)
-- [Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
+- ✅[Базовый синтаксис JavaScript](https://youtu.be/xJn3k1f4BiM)
   - Абстракции и их переиспользование: https://github.com/HowProgrammingWorks/Reusable
   - Основные конструкции: https://github.com/HowProgrammingWorks/Cheatsheet
   - Типы данных: https://github.com/HowProgrammingWorks/DataTypes
-- [Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
+- ✅[Базовый синтаксис JavaScript, продолжение](https://youtu.be/qa-XleqA0JU)
   - Типы данных: https://github.com/HowProgrammingWorks/DataTypes
   - Условия: https://github.com/HowProgrammingWorks/Conditional
 - Семинар: [Базовый синтаксис языка JavaScript](https://youtu.be/PGqjTXQe_qw)
 - Семинар: [Автоматическая проверка лабораторных работ](https://youtu.be/M4KpG0LEAyA)
-- [Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
+- ✅[Функции, стрелочные функции, контексты, замыкания в JavaScript](https://youtu.be/pn5myCmpV2U)
   - Функции: https://github.com/HowProgrammingWorks/Function
   - Замыкания: https://github.com/HowProgrammingWorks/Closure
-- [Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
+- ✅[Массивы, объекты, классы, прототипы в JavaScript](https://youtu.be/VBMGnAPfmsY)
   - Структуры данных: https://github.com/HowProgrammingWorks/DataStructures
   - Итерирование: https://github.com/HowProgrammingWorks/Iteration
   - Прототипы: https://github.com/HowProgrammingWorks/Prototype
@@ -53,7 +53,7 @@
 - Семинар: [JavaScript, ответы на вопросы](https://youtu.be/wqkQ6eslyzY)
 - [Частичное применение и каррирование в JavaScript](https://youtu.be/ND8KQ5xjk7o)
   - Примеры кода: https://github.com/HowProgrammingWorks/PartialApplication
-- [Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
+- ✅[Функции высшего порядка, колбеки, события на JavaScript](https://youtu.be/1vqATwbGHnc)
   - Функции высшего порядка: https://github.com/HowProgrammingWorks/HigherOrderFunction
   - Функции обратного вызова: https://github.com/HowProgrammingWorks/Callbacks
 - [История развития языков программирования](https://youtu.be/qqz0VSaNxuw)
@@ -68,21 +68,21 @@
 - [Чеининг функций и объектов, обработка ошибок в JavaScript](https://youtu.be/PfuEfIiLX34)
   - Чеининг: https://github.com/HowProgrammingWorks/Chaining
   - Обработка ошибок: https://github.com/HowProgrammingWorks/Errors
-- [Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
+- ✅[Рекурсия: косвенная и хвостовая, стек, выход](https://youtu.be/W2skCjIgVKE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Recursion
-- [Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
+- ✅[Итерирование, циклы и итераторы в JavaScript](https://youtu.be/lq3b5_UGJas)
   - Примеры кода: https://github.com/HowProgrammingWorks/Iteration
 - [Антипаттерны процедурного программирования](https://youtu.be/cTv7V22mkwE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Antipatterns/tree/master/JavaScript/02-Procedural
 - Семинар: [Ответы на вопросы по курсу "Основы программирования"](https://youtu.be/TY6nDW7aYys)
-- [Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
+- ✅[Таймеры, таймауты и EventEmitter](https://youtu.be/LK2jveAnRNg)
   - Таймеры: https://github.com/HowProgrammingWorks/Timers
   - EventEmitter: https://github.com/HowProgrammingWorks/EventEmitter
   - События: https://github.com/metarhia/common/blob/master/lib/events.js
 - Семинар: [Выполнение лабораторных работ по курсу](https://youtu.be/ikUOyFPzdJw)
-- [Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE)
+- ✅[Массивы в JavaScript: методы Array](https://youtu.be/D1kfYBkX9FE)
   - Примеры кода: https://github.com/HowProgrammingWorks/Arrays
-- [Коллекции, множества, хеш таблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
+- ✅[Коллекции, множества, хеш таблицы в JavaScript](https://youtu.be/hN0wsq5LNOc)
   - Коллекции: https://github.com/HowProgrammingWorks/Collections
   - Хеш таблицы: https://github.com/HowProgrammingWorks/Map
   - Множества: https://github.com/HowProgrammingWorks/Set
